@@ -13,9 +13,9 @@
                     <div class="panel-heading">Contact Info</div>
                     <div class="panel-body">
                         <address>
-                            <strong>Tom Tsiliopoulos</strong><br>
-                            1 Toronto Street<br>
-                            Barrie, ON L9L 9L9<br>
+                            <strong>Ritesh Patel</strong><br>
+                            10 Vannesa Dr<br>
+                            Ontario, ON L3V 7Y8<br>
                             <abbr title="Phone">TEL:</abbr>
                             (705) 555-6666
                         </address>
